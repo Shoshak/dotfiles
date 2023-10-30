@@ -1,0 +1,1 @@
+sudo pacman -S --needed hyprland greetd xdg-desktop-portal-hyprland dunst pipewire wireplumber kitty polkit-kde-agent qt5-wayland qt6-wayland neovim waybar bemenu wl-clipboard libnotify brightnessctl grim slurp
